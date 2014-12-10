@@ -1,0 +1,16 @@
+# Remember how many reminders have fired so far
+SET n $NumTrig
+
+REM Mon 15 Jan SCANFROM [trigger(today()-7)] MSG Martin Luther King b'day
+OMIT [trigger(trigdate())]
+
+REM Mon 1 Sep SCANFROM [trigger(today()-7)] MSG Labor Day
+OMIT [trigger(trigdate())]
+
+# Now check for shading.  It's fine to shade *today* because
+# this is only relevant for calendars.
+IF $NumTrig > n
+   # At least one triggered!
+   REM SPECIAL SHADE 150
+ENDIF
+

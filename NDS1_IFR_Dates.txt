@@ -1,0 +1,29 @@
+IFR/IFF/IFC Schedule				
+106726 Nuna Development Project NDS-1				
+8/26/2014				
+				
+Work Package / WBS	60% Review	IFR	IFF/IFC	Module #
+WP 003 Pigging 1 (@NDS1)                                                   	9/18/2014	9/23/2014	10/22/2014	N1-P04
+WP 005 VFD 1                                                               	10/9/2014	11/26/2014	12/23/2014	N1-E08
+WP 006 VFD 2 & 5 kV MCC (to be parallel with 005)                          	10/9/2014	11/26/2014	12/23/2014	N1-E07
+WP 007 E&I Module                                                          	1/15/2015	2/18/2015	3/19/2015	N1-E06
+WP 008 Chemical Injection                                                  	12/18/2014	1/22/2015	2/18/2015	N1-P01
+"WP 009 Blowdown Tank, Platform & Secondary Containment                     "	9/18/2014	10/7/2014	11/12/2014	N1-TK13
+WP 010 ESD & Meter Module                                                  	1/15/2015	2/24/2015	4/2/2015	N1-P02
+WP 011 35Kv Transformer Platform                                           	10/9/2014	11/4/2014	12/10/2014	N1-E12
+WP 012 35 Kv Switchgear Module                                             	11/6/2014	12/9/2014	1/14/2015	N1-E11
+WP 013 Control Room/Utility Module (Includes Comm Mast)                    	11/6/2014	12/30/2014	2/4/2015	N1-C05
+WP 014 Well Row Pipe Rack                                                  	9/18/2014	10/9/2014	11/5/2014	N1-PR1XX
+WP 015 Interconnecting Pipe Rack                                           	12/18/2014	1/29/2015	3/4/2015	N1-PR2XX
+WP 016 Buried Utiliway                                                     	11/6/2014	12/16/2014	1/21/2015	N1-U15
+WP 017 On Pad Piling                                                       		2/10/2015	4/15/2015	
+WP 017 On Pad Piling                                                       		2/10/2015	5/13/2015	
+WP 018 Well Row Pipe Rack                                                  		3/5/2015	4/8/2015	
+"WP 019 Module Setting, Interconnects, Buried Utiliway, Tank Secondary Cont."		4/23/2015	5/27/2015	
+WP 020 Producer Well Tie-Ins                                               		4/30/2015	6/4/2015	
+WP 020 Producer Well Tie-Ins Laterals Supports and Well Tree Platform      		1/2/2015	2/4/2015	
+WP 021 Injector Well Tie-Ins                                               		4/30/2015	6/3/2015	
+WP 021 Injector Well Tie-Ins Laterals Supports and Well Tree Platform      		1/2/2015	2/4/2015	
+WP 022 Pre-Production                                                      		4/30/2015	6/4/2015	
+WP 023 Cold Storage Building                                               		2/19/2015	3/25/2015	N1-B14
+Issue All Ladder and Platform Designs IFF                                  		  N/A     	6/4/2015	
