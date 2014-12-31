@@ -8,7 +8,7 @@ FSET _mo_num(mo, yr)		ORD(12 * (YEAR(TRIGDATE()) - yr) + \
 					MONNUM(TRIGDATE()) - mo)
 
 # Here's an example of how to use them:
-REM 21 Jan ++12 MSG %"John's [_yr_num(1965)] birthday%" is %b.
+REM 21 Jan ++12 MSG %"My [_yr_num(1965)] birthday%" is %b.
 REM 20 Feb ++12 MSG %"Anthony's [_yr_num(1980)] birthday%" is %b.
 REM 11 May ++12 MSG %"Ashley's [_yr_num(1988)] birthday%" is %b.
 REM 7 Dec ++12 MSG %"Sheila's [_yr_num(1965)] birthday%" is %b.
@@ -31,3 +31,9 @@ REM 30 Sep ++12 MSG %"Marty McCollum's [_yr_num(1957)] birthday%" is %b.
 REM 19 Oct ++12 MSG %"Laramie West's [_yr_num(2010)] birthday%" is %b.
 REM 17 Oct ++12 MSG %"Jon Adams's [_yr_num(1968)] birthday%" is %b.
 REM 7 Apr ++12 MSG %"Anna Badyoczek's [_yr_num(1984)] birthday%" is %b.
+REM 2 May ++12 MSG %"Tom Bertagnolli's [_yr_num(1984)] birthday%" is %b.
+REM 22 Feb ++12 MSG %"Kaitlyn Neighbors's [_yr_num(1992)] birthday%" is %b.
+REM 13 May ++12 MSG %"Kyle Dickison's [_yr_num(1996)] birthday%" is %b.
+REM 21 May ++12 MSG %"Bishop Bartle's [_yr_num(1994)] birthday%" is %b.
+REM 24 May ++12 MSG %"Kim Vigna's [_yr_num(1966)] birthday%" is %b.
+REM 26 May ++12 MSG %"John Bartle Jr's [_yr_num(1968)] birthday%" is %b.
