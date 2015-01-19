@@ -179,7 +179,7 @@ FSET _mo_num(mo, yr)		ORD(12 * (YEAR(TRIGDATE()) - yr) + \
 					MONNUM(TRIGDATE()) - mo)
 
 # Here's an example of how to use them:
-REM 21 Jan ++12 MSG %"John's [_yr_num(1965)] birthday%" is %b.
+# REM 21 Jan ++12 MSG %"John's [_yr_num(1965)] birthday%" is %b.
 REM 5 MSG John's [_mo_num(11, 2012)] 'monthly' anniversary
 
 ###########################################################

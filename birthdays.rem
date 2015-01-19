@@ -38,3 +38,4 @@ REM 21 May ++12 MSG %"Bishop Bartle's [_yr_num(1994)] birthday%" is %b.
 REM 24 May ++12 MSG %"Kim Vigna's [_yr_num(1966)] birthday%" is %b.
 REM 26 May ++12 MSG %"John Bartle Jr's [_yr_num(1968)] birthday%" is %b.
 REM 7 Jan ++12 MSG %"John Garrigues's [_yr_num(1957)] birthday%" is %b.
+REM 30 Jan ++12 MSG %"Alex Allyne's [_yr_num(1985)] birthday%" is %b.
