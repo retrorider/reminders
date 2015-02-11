@@ -39,3 +39,9 @@ REM 24 May ++12 MSG %"Kim Vigna's [_yr_num(1966)] birthday%" is %b.
 REM 26 May ++12 MSG %"John Bartle Jr's [_yr_num(1968)] birthday%" is %b.
 REM 7 Jan ++12 MSG %"John Garrigues's [_yr_num(1957)] birthday%" is %b.
 REM 30 Jan ++12 MSG %"Alex Allyne's [_yr_num(1985)] birthday%" is %b.
+REM 28 Jan ++12 MSG %"Daren Dickison's [_yr_num(1963)] birthday%" is %b.
+REM 29 Nov ++12 MSG %"Collin & Kaitlynn's [_yr_num(2014)] dating anniversary%" is %b.
+REM 17 Jun ++12 MSG %"John & Sheila's [_yr_num(1989)] wedding anniversary%" is %b.
+REM 18 Jun ++12 MSG %"John & Sandy's [_yr_num(1965)] wedding anniversary%" is %b.
+REM 26 Jun ++12 MSG %"Cyndi Davis's [_yr_num(1951)] birthday%" is %b.
+REM 29 Jun ++12 MSG Mitchell Mullinex RIP (2008)
