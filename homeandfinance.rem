@@ -10,9 +10,8 @@ REM Mar 31 2014 MSG First Auto Loan Payment $329.61
 REM Apr 14 2014 *14 MSG Auto Loan Debit $165.53
 REM Nov 1 MSG Install Snow Tires
 REM Mar 31 +14 MSG Remove Snow Tires
-REM Mar 14 2014 *14 MSG Anvil Payday
-REM 1 -1 OMIT Sat Sun +2 MSG MVUSD Payday
-REM Mar 29 AT 11:30 MSG Meet Simpsons for Lunch in Ballard
+REM Mar 14 2014 *14 SPECIAL COLOR 0 128 0 Anvil Payday
+REM 1 -1 OMIT Sat Sun +2 SPECIAL COLOR 0 128 0 MVUSD Payday
 REM Apr 18 2014 THROUGH Apr 20 2014 MSG Destination WSU
 REM Mar 21 2014 *14 MSG Wash Subaru
 REM Apr 4 2014 MSG ProTime
@@ -65,3 +64,5 @@ REM 19 Jul 2015 MSG RUSH at Key Arena
 REM 24 Jul 2015 MSG 2nd Anniversary of Collin's DUI Stop (Approx.)
 REM 24 Jan 2017 MSG Drop Collin's SR-22
 REM 26 Feb 2015 MSG Sheila to Gun Class
+REM 12 Apr 2015 MSG Game of Thrones Returns
+REM 12 Sep 2015 MSG ToH Fall Banquet in Reno, NV

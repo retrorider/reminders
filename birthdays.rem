@@ -45,3 +45,4 @@ REM 17 Jun ++12 MSG %"John & Sheila's [_yr_num(1989)] wedding anniversary%" is %
 REM 18 Jun ++12 MSG %"John & Sandy's [_yr_num(1965)] wedding anniversary%" is %b.
 REM 26 Jun ++12 MSG %"Cyndi Davis's [_yr_num(1951)] birthday%" is %b.
 REM 29 Jun ++12 MSG Mitchell Mullinex RIP (2008)
+REM 3 Mar ++12 MSG %"Eleanor Daniel Atwood's [_yr_num(2014)] birthday%" is %b.

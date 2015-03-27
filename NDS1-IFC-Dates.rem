@@ -7,7 +7,8 @@ REM 23 Dec 2014 SCANFROM [trigger(today()-7)] MSG IFF WP 006 VFD 2 & 5kV MCC Mod
 OMIT [trigger(trigdate())]
 REM 19 Mar 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 007 E&I Module
 OMIT [trigger(trigdate())]
-REM 18 Feb 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
+# REM 18 Feb 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
+REM 3 Apr 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
 OMIT [trigger(trigdate())]
 REM 26 Nov 2014 SCANFROM [trigger(today()-7)] MSG IFF WP 009 Blowdown Tank, Platform & Secondary Containment
 OMIT [trigger(trigdate())]
@@ -37,8 +38,8 @@ REM 3 Jun 2015  SCANFROM [trigger(today()-7)] MSG IFC WP 021 Injector Well Tie-I
 OMIT [trigger(trigdate())]
 REM 4 Jun 2015  SCANFROM [trigger(today()-7)] MSG IFC WP 022 Pre-Production
 OMIT [trigger(trigdate())]
-REM 25 Mar 2015 SCANFROM [trigger(today()-7)] MSG IFC WP 023 Cold Storage Building
-OMIT [trigger(trigdate())]
+## REM 25 Mar 2015 SCANFROM [trigger(today()-7)] MSG IFC WP 023 Cold Storage Building
+## OMIT [trigger(trigdate())]
 REM 5 Jun 2015  SCANFROM [trigger(today()-7)] MSG IFF All Ladder and Platform Designs
 OMIT [trigger(trigdate())]
 REM 1 Oct 2014  SCANFROM [trigger(today()-7)] MSG IFR WP 003 Pigging 1 (@NDS1)
@@ -47,7 +48,8 @@ REM 26 Nov 2014 SCANFROM [trigger(today()-7)] MSG IFR WP 006 VFD 2 & 5kV MCC Mod
 OMIT [trigger(trigdate())]
 REM 18 Feb 2015 SCANFROM [trigger(today()-7)] MSG IFR WP 007 E&I Module
 OMIT [trigger(trigdate())]
-REM 22 Jan 2015 SCANFROM [trigger(today()-7)] MSG IFR WP 008 Chemical Injection
+# REM 22 Jan 2015 SCANFROM [trigger(today()-7)] MSG IFR WP 008 Chemical Injection
+REM 3 Apr 2015 SCANFROM [trigger(today()-7)] MSG IFR WP 008 Chemical Injection
 OMIT [trigger(trigdate())]
 REM 7 Oct 2014  SCANFROM [trigger(today()-7)] MSG IFR WP 009 Blowdown Tank, Platform & Secondary Containment
 OMIT [trigger(trigdate())]

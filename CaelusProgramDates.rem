@@ -1,10 +1,10 @@
 ## Cost and Performance Reporting ##
-REM Sun 1 --7 BEFORE MSG Caelus Schedule Data Date 
+REM Sun 1 --7 BEFORE SPECIAL COLOR 0 0 256 Caelus Schedule Data Date 
 REM Fri 1 --4 MSG Caelus Accrual Due 
-REM Sun 1 --21 BEFORE MSG Caelus Schedule Data Date 
-REM Sun 1 --2 BEFORE MSG Caelus Project Performance Report
+REM Sun 1 --21 BEFORE SPECIAL COLOR 0 0 256 Caelus Schedule Data Date 
+REM Sun 1 --2 BEFORE SPECIAL COLOR 0 0 256 Caelus Project Performance Report
 REM Sun 1 --2 BEFORE MSG Monthly Internal Report
-REM Sun 1 --16 BEFORE MSG Caelus Project Performance Report 
+REM Sun 1 --16 BEFORE SPECIAL COLOR 0 0 256 Caelus Project Performance Report 
 REM Sun 1 --9 BEFORE MSG Caelus Project Cost Report 
 REM Sun 1 --23 BEFORE MSG Caelus Project Cost Report 
 REM 7 Nov 2014 MSG Caelus Project Cost Report
@@ -14,3 +14,5 @@ REM 18 Dec 2014 MSG Quyen and Ben at Anvil
 REM 20 Jan 2015 MSG Bi-Monthly Exec Review (ANC)
 REM 29 Jan 2015 MSG Quyen at Anvil
 REM 25 Feb 2015 MSG Quyen and Ben at Anvil
+REM 3 Apr 2015 SPECIAL COLOR 128 0 0 Shutdown Caelus if No additional Funding Rec'd
+
