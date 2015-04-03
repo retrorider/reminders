@@ -8,7 +8,8 @@ OMIT [trigger(trigdate())]
 REM 19 Mar 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 007 E&I Module
 OMIT [trigger(trigdate())]
 # REM 18 Feb 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
-REM 3 Apr 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
+# REM 3 Apr 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
+REM 10 Apr 2015 SCANFROM [trigger(today()-7)] MSG IFF WP 008 Chemical Injection
 OMIT [trigger(trigdate())]
 REM 26 Nov 2014 SCANFROM [trigger(today()-7)] MSG IFF WP 009 Blowdown Tank, Platform & Secondary Containment
 OMIT [trigger(trigdate())]
