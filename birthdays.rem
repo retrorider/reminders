@@ -23,6 +23,7 @@ REM 21 Apr ++12 MSG %"Dayna's [_yr_num(1969)] birthday%" is %b.
 REM 15 Jun ++12 MSG %"Silas Allyne's [_yr_num(2012)] birthday%" is %b.
 REM 27 Jun ++12 MSG %"Mitchell Mullinax's [_yr_num(1986)] birthday%" is %b.
 REM 29 Jun ++12 MSG Frank Schade RIP (2011)
+REM 12 Apr ++12 MSG Larry Davis RIP (2001)
 REM 19 Jan ++12 MSG Dan Bartle RIP (2011)
 REM 28 Jul ++12 MSG %"Justin Allyne's [_yr_num(1984)] birthday%" is %b.
 REM 14 Jul ++12 MSG %"Audrey Allyne's [_yr_num(2014)] birthday%" is %b.
@@ -30,7 +31,7 @@ REM 26 Aug ++12 MSG %"Allyson Dickison's [_yr_num(1993)] birthday%" is %b.
 REM 30 Sep ++12 MSG %"Marty McCollum's [_yr_num(1957)] birthday%" is %b.
 REM 19 Oct ++12 MSG %"Laramie West's [_yr_num(2010)] birthday%" is %b.
 REM 17 Oct ++12 MSG %"Jon Adams's [_yr_num(1968)] birthday%" is %b.
-REM 7 Apr ++12 MSG %"Anna Badyoczek's [_yr_num(1984)] birthday%" is %b.
+REM 7 Apr ++12 MSG %"Anna Badyoczek's [_yr_num(1985)] birthday%" is %b.
 REM 2 May ++12 MSG %"Tom Bertagnolli's [_yr_num(1984)] birthday%" is %b.
 REM 22 Feb ++12 MSG %"Kaitlyn Neighbors's [_yr_num(1993)] birthday%" is %b.
 REM 13 May ++12 MSG %"Kyle Dickison's [_yr_num(1996)] birthday%" is %b.
