@@ -7,3 +7,51 @@ REM 24 Apr 2015 SPECIAL COLOR 0 153 0 107315 Issue for Fabrication - Module Base
 REM 01 May 2015 SPECIAL COLOR 0 153 0 107315 60% Model Review
 REM 27 May 2015 SPECIAL COLOR 0 153 0 107315 Issue for Fabrication - Complete Module 63
 REM 27 Apr 2015 THROUGH 1 May 2015 MSG Chris Higgins OoO
+Start	Finish	Activity Name
+03/19/2015 A		NTP - Funding Received Mod 63
+04/14/2015 A		NTP - Funding Received Mod 65
+04/14/2015 A		NTP - Funding Received Mod 62
+05/08/2015	Issue Pile MTO to BRP
+05/11/2015	Issue IFR Package
+Mod 63 IFR	05/11/2015	Mod 63 IFR
+05/13/2015	Issue IFB Package to Fab Shop
+05/15/2015	Issue Pile MTO to BRP
+05/15/2015	Issue Pile Plan to BRP
+05/22/2015	Recieve VDDR Low Voltage MCC
+05/22/2015	Issue Pile Plan to BRP
+05/22/2015	Issue Module Bases IFF
+05/27/2015	Issue IFF Package
+05/27/2015	Mod 63 IFF
+06/01/2015	Issue Module Bases IFF
+06/08/2015	Recieve VDDR Transformers
+06/19/2015	Issue IFR Package
+06/19/2015	Mod 62 IFR
+06/22/2015	Recieve VDDR 4.16kv Switchgear
+06/22/2015	Recieve VDDR Low Voltage Switchgear
+06/23/2015	Issue IFB Package to Fab Shop
+Recieve VDDR UPS, Manual Transformer Switch, Transformer, Power Panel, Ametek, Multiple Order	07/07/2015	Recieve VDDR UPS, Manual Transformer Switch, Transformer, Power Panel, Ametek, Multiple Order
+Recieve VDDR Battery Bank	07/07/2015	Recieve VDDR Battery Bank
+Issue IFF Package	07/10/2015	Issue IFF Package
+Mod 62 IFF	07/10/2015	Mod 62 IFF
+Mod 65 IFR	07/31/2015	Mod 65 IFR
+Issue IFR Package	07/31/2015	Issue IFR Package
+Issue IFB Package to Fab Shop	08/04/2015	Issue IFB Package to Fab Shop
+Arrive in Anchorage	08/10/2015	Arrive in Anchorage
+Mod 65 IFF	08/17/2015	Mod 65 IFF
+Issue IFF Package	08/17/2015	Issue IFF Package
+Finish Final Engineering	08/17/2015	Finish Final Engineering
+Transformers Arrive at Fab Shop	08/25/2015	Transformers Arrive at Fab Shop
+Mod 63 Fabrication Complete	09/08/2015	Mod 63 Fabrication Complete
+Low Voltage MCC  Arrive at Fab Shop	09/09/2015	Low Voltage MCC  Arrive at Fab Shop
+Mod 62 Fabrication Complete	09/17/2015	Mod 62 Fabrication Complete
+Mod 63 On Site @ North Slope	09/22/2015	Mod 63 On Site @ North Slope
+UPS, Manual Transformer Switch, Transformer, Power Panel, Ametek, Multiple Order Arrive at Fab Shop	09/30/2015	UPS, Manual Transformer Switch, Transformer, Power Panel, Ametek, Multiple Order Arrive at Fab Shop
+Battery Bank Arrive at Fab Shop	09/30/2015	Battery Bank Arrive at Fab Shop
+Mod 62 On Site @ North Slope	10/01/2015	Mod 62 On Site @ North Slope
+4.16kv Switchgear Arrive at Fab Shop	10/28/2015	4.16kv Switchgear Arrive at Fab Shop
+Low Voltage Switchgear Arrive at Fab Shop	10/28/2015	Low Voltage Switchgear Arrive at Fab Shop
+Mod 65 Fabrication Complete	12/24/2015	Mod 65 Fabrication Complete
+Mod 65 On Site @ North Slope	01/11/2016	Mod 65 On Site @ North Slope
+All Modules on North Slope	01/11/2016	All Modules on North Slope
+First Oil	03/28/2016*	First Oil
+
