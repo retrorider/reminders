@@ -13,7 +13,6 @@ REM Mar 31 +14 MSG Remove Snow Tires
 REM Mar 14 2014 *14 SPECIAL COLOR 0 128 0 Anvil Payday
 REM 1 -1 OMIT Sat Sun +2 SPECIAL COLOR 0 128 0 MVUSD Payday
 REM Apr 18 2014 THROUGH Apr 20 2014 MSG Destination WSU
-REM Mar 21 2014 *14 MSG Wash Subaru
 REM Apr 4 2014 MSG ProTime
 REM May 2 2014 MSG ProTime
 REM Wed 21 MSG Bariatric Support Group
