@@ -1,7 +1,7 @@
-REM 25 MSG Safeco Insurance AutoPay $189.92
+REM 25 MSG Safeco Insurance AutoPay $203.21
 REM 15 MSG Sallie Mae/Navient AutoPay $459.78
 REM 25 MSG MetLife Insurance AutoPay $120.50
-REM 27 MSG T-Mobile $173.02
+REM 27 MSG T-Mobile $177.96
 REM 1 MSG Replace Contact Lenses
 REM Mar 1 2014 *90 +7 MSG Replace Furnace Filter
 REM Mar 11 2014 MSG BP Safety Test at 13:00
@@ -32,7 +32,7 @@ REM Nov 25 MSG Truck Tabs Expire
 REM Dec 16 MSG Subaru Tabs Expire
 REM June 24 2014 THROUGH June 27 2014 MSG Diploma Pickup at MVHS
 REM 19 MSG Great Lakes Autopay $240.95
-REM 5 MSG Comcast Payment Due $180.64
+REM 4 MSG Comcast Payment Due $180.64
 REM Jul 11 MSG Free Slurpee Day
 REM Aug 27 --28 MSG Renew Motorcycle Insurance
 REM Aug 27 2014 MSG ProTime
