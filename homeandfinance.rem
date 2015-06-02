@@ -1,13 +1,13 @@
-REM 25 MSG Safeco Insurance AutoPay $203.21
-REM 15 MSG Sallie Mae/Navient AutoPay $459.78
-REM 25 MSG MetLife Insurance AutoPay $120.50
-REM 27 MSG T-Mobile $177.96
+REM 25 SPECIAL COLOR 128 0 0 MSG Safeco Insurance AutoPay $203.21
+REM 15 SPECIAL COLOR 128 0 0 MSG Sallie Mae/Navient AutoPay $459.78
+REM 25 SPECIAL COLOR 128 0 0 MSG MetLife Insurance AutoPay $120.50
+REM 27 SPECIAL COLOR 128 0 0 MSG T-Mobile $177.96
 REM 1 MSG Replace Contact Lenses
 REM Mar 1 2014 *90 +7 MSG Replace Furnace Filter
 REM Mar 11 2014 MSG BP Safety Test at 13:00
 REM Mar 7 2014 MSG CR-V in for Eco Pro
-REM Mar 31 2014 MSG First Auto Loan Payment $329.61
-REM Apr 14 2014 *14 MSG Auto Loan Debit $165.53
+REM Mar 31 2014 SPECIAL COLOR 128 0 0 MSG First Auto Loan Payment $329.61
+REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 MSG Auto Loan Debit $165.53
 REM Nov 1 MSG Install Snow Tires
 REM Mar 31 +14 MSG Remove Snow Tires
 REM Mar 14 2014 *14 SPECIAL COLOR 0 128 0 Anvil Payday
@@ -31,9 +31,9 @@ REM Aug 27 MSG VTX Tabs Expire
 REM Nov 25 MSG Truck Tabs Expire
 REM Dec 16 MSG Subaru Tabs Expire
 REM June 24 2014 THROUGH June 27 2014 MSG Diploma Pickup at MVHS
-REM 19 MSG Great Lakes Autopay $240.95
-REM 4 MSG Comcast Payment Due $180.64
-REM 11 MSG Collin's Rent Due $525.00
+REM 19 SPECIAL COLOR 128 0 0 MSG Great Lakes Autopay $240.95
+REM 4 SPECIAL COLOR 128 0 0 MSG Comcast Payment Due $180.64
+REM 11 SPECIAL COLOR 128 0 0 MSG Collin's Rent Due $525.00
 REM Jul 11 MSG Free Slurpee Day
 REM Aug 27 --28 MSG Renew Motorcycle Insurance
 REM Aug 27 2014 MSG ProTime
