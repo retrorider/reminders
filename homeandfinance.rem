@@ -2,6 +2,7 @@ REM 25 SPECIAL COLOR 128 0 0 MSG Safeco Insurance AutoPay $203.21
 REM 15 SPECIAL COLOR 128 0 0 MSG Sallie Mae/Navient AutoPay $459.78
 REM 25 SPECIAL COLOR 128 0 0 MSG MetLife Insurance AutoPay $120.50
 REM 27 SPECIAL COLOR 128 0 0 MSG T-Mobile $177.96
+REM 6 SPECIAL COLOR 128 0 0 MSG Amazon Visa Payment Due
 REM 1 MSG Replace Contact Lenses
 REM Mar 1 2014 *90 +7 MSG Replace Furnace Filter
 REM Mar 11 2014 MSG BP Safety Test at 13:00
@@ -71,7 +72,7 @@ REM 12 Apr 2015 MSG Game of Thrones Returns
 REM 12 Sep 2015 MSG ToH Fall Banquet in Reno, NV
 REM 14 May 2015 MSG Collin Wisdom Teeth Extraction
 REM 1 May 2015 AT 14:00 MSG Meet with Melody at Peoples Bank
-REM 13 MSG AmEx Bill Due
+REM 13 SPECIAL COLOR 128 0 0 MSG AmEx Bill Due
 REM May 08 2015 MSG Collin's Rent Due ($1000)
 REM May 08 2015 MSG Gardner Pest Control
 REM Mon 08 MSG TAPS Group Meeting in Federal Way
