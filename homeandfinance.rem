@@ -1,19 +1,19 @@
 # Bills
 REM Mar 14 2014 *14 SPECIAL COLOR 0 128 0 Anvil Payday
 REM 1 -1 OMIT Sat Sun +2 SPECIAL COLOR 0 128 0 MVUSD Payday
-REM 24 SPECIAL COLOR 128 0 0 MSG Safeco Insurance AutoPay $203.21
-REM 15 SPECIAL COLOR 128 0 0 MSG Sallie Mae/Navient AutoPay $459.78
-REM 25 SPECIAL COLOR 128 0 0 MSG MetLife Insurance AutoPay $120.50
-REM 27 SPECIAL COLOR 128 0 0 MSG T-Mobile $177.96
-REM 6 SPECIAL COLOR 128 0 0 MSG Amazon Visa Payment Due
-REM Mar 31 2014 SPECIAL COLOR 128 0 0 MSG First Auto Loan Payment $329.61
-REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 MSG Auto Loan Debit $166.03
-REM 27 SPECIAL COLOR 128 0 0 MSG Great Lakes Autopay $179.53
-REM 4 SPECIAL COLOR 128 0 0 MSG Comcast Payment Due $180.64
-REM 11 SPECIAL COLOR 128 0 0 MSG Collin's Rent Due $525.00
-REM 13 SPECIAL COLOR 128 0 0 MSG AmEx Bill Due
-REM 10 Aug 2015 SPECIAL COLOR 128 0 0 MSG End of Promo Financing for Shae's First Knee Surgery
-REM 10 Jan 2016 SPECIAL COLOR 128 0 0 MSG End of Promo Financing for Shae's Second Knee Surgery
+REM 24 SPECIAL COLOR 128 0 0 Safeco Insurance AutoPay $203.21
+REM 15 SPECIAL COLOR 128 0 0 Sallie Mae/Navient AutoPay $459.78
+REM 25 SPECIAL COLOR 128 0 0 MetLife Insurance AutoPay $120.50
+REM 27 SPECIAL COLOR 128 0 0 T-Mobile $177.96
+REM 6 SPECIAL COLOR 128 0 0 Amazon Visa Payment Due
+REM Mar 31 2014 SPECIAL COLOR 128 0 0 First Auto Loan Payment $329.61
+REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 Auto Loan Debit $166.03
+REM 27 SPECIAL COLOR 128 0 0 Great Lakes Autopay $179.53
+REM 4 SPECIAL COLOR 128 0 0 Comcast Payment Due $180.64
+REM 11 SPECIAL COLOR 128 0 0 Collin's Rent Due $525.00
+REM 13 SPECIAL COLOR 128 0 0 AmEx Bill Due
+REM 10 Aug 2015 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's First Knee Surgery
+REM 10 Jan 2016 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's Second Knee Surgery
 # End Bills
 # Car Stuff
 REM Nov 1 MSG Install Snow Tires
@@ -59,22 +59,23 @@ REM Sep 2 2014 AT 16:00 MSG Tim Villhauer
 REM Sep 26 2014 MSG $200 to Jon Losey
 REM Dec 6 2014 MSG AC-DC Rock or Bust released
 REM Tue 14 MSG Sheila - Book Club
-REM Nov 24 MSG Pro Time
+# REM Nov 24 MSG Pro Time
 REM Jul 20 2015 THROUGH Jul 24 2015 MSG Star Days - Longmont, CO
 REM Mar 1 2015 MSG Star Days Registration Opens
-REM Dec 22 MSG Pro Time
+# REM Dec 22 MSG Pro Time
 REM Dec 22 2014 MSG Shae Surgery
-REM Jan 13 2015 MSG Pro Time
+# REM Jan 13 2015 MSG Pro Time
 REM Dec 30 2014 THROUGH 5 Jan 2015 MSG Collin to OC
 REM 6 Jan 2015 MSG Shae Vet Appointment
 REM 1 Dec MSG Renew STAR Membership
 REM 13 Feb 2015 MSG Whose Live Anyway Show
-REM Aug 27 2014 MSG Pro Time
-REM 12 Mar 2015 MSG Pro Time
-REM 24 Apr 2015 MSG Pro Time
-REM 13 May 2015 MSG Pro Time
-REM 19 Jun 2015 MSG Pro Time
+# REM Aug 27 2014 MSG Pro Time
+# REM 12 Mar 2015 MSG Pro Time
+# REM 24 Apr 2015 MSG Pro Time
+# REM 13 May 2015 MSG Pro Time
+# REM 19 Jun 2015 MSG Pro Time
 REM 10 Jul 2015 MSG Pro Time
+REM 10 Jul 2015 MSG Physical
 REM 30 Jan 2015 MSG RUSH Tickets go on sale
 REM 7 May 2015 MSG Deadline for Refund Payments on Great Lakes PLUS Loan
 REM 26 Feb 2015 MSG Sheila to Gun Class
