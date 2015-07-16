@@ -9,7 +9,7 @@ REM 6 SPECIAL COLOR 128 0 0 Amazon Visa Payment $333
 REM Mar 31 2014 SPECIAL COLOR 128 0 0 First Auto Loan Payment $329.61
 REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 Auto Loan Debit $166.03
 REM 27 SPECIAL COLOR 128 0 0 Great Lakes Autopay $179.53
-REM 4 SPECIAL COLOR 128 0 0 Comcast Payment Due $180.64
+REM 4 SPECIAL COLOR 128 0 0 Comcast Payment Due $223
 REM 11 SPECIAL COLOR 128 0 0 Collin's Rent Due $525.00
 REM 13 SPECIAL COLOR 128 0 0 AmEx Bill Due
 REM 10 Aug 2015 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's First Knee Surgery
@@ -33,7 +33,6 @@ REM Jul 11 MSG Free Slurpee Day
 REM 19 Jul 2015 MSG RUSH at Key Arena
 REM 24 Jul 2015 MSG 2nd Anniversary of Collin's DUI Stop (Approx.)
 REM 24 Jul 2015 THROUGH 26 Jul 2015 MSG Gathering at Allyne's in Gig Harbor
-REM 26 Jul 2015 MSG Barenaked Ladies at Marymoor Park
 REM 23 Jul 2015 MSG Edward Jones Ice Cream Social at Fairhaven Park
 # End Events
 REM 1 MSG Replace Contact Lenses
