@@ -408,9 +408,9 @@ REM Dec [IIF((YEAR(TODAY())+1)%4, 21, 22)] MSG %"Winter%" begins
 
 # The following will fill in the Hebrew dates on the calendar.  For this
 # example, I recommend that you use the -sd 10 option for Rem2PS.
-REM PS Border Border moveto \
-   /DayFont findfont DaySize scalefont setfont \
-   ([hebday(today())] [hebmon(today())]) show
+# REM PS Border Border moveto \
+#    /DayFont findfont DaySize scalefont setfont \
+#    ([hebday(today())] [hebmon(today())]) show
 
 # Fill in the phases of the moon on the PostScript calendar
 [trigger(moondate(0))] SPECIAL MOON 0
@@ -420,17 +420,17 @@ REM PS Border Border moveto \
 
 # The following example puts sunrise and sunset times in PostScript in the
 # calendar - the sizes are hard-coded, however, and work best in landscape.
-REM PS Border Border 5 sub moveto \
-	/SmallFont findfont 4 scalefont setfont \
-	(Sunrise: [sunrise(trigdate())] Sunset: [sunset(trigdate())]) show
+# REM PS Border Border 5 sub moveto \
+# 	/SmallFont findfont 4 scalefont setfont \
+# 	(Sunrise: [sunrise(trigdate())] Sunset: [sunset(trigdate())]) show
 
 # The next one puts the day number (1-366) and days left in the year at the
 # bottom of the post-script calendar.  Again, the hard-coded sizes work best
 # in landscape.
-FSET _DayOfYear(x) x-(date(year(x),1,1) - 1)
-REM PS BoxWidth 3 mul 4 div Border 5 sub moveto \
-	/SmallFont findfont 4 scalefont setfont \
-	([_DayOfYear(today())]([365+isleap(today())-_DayOfYear(today())])) show
+# FSET _DayOfYear(x) x-(date(year(x),1,1) - 1)
+# REM PS BoxWidth 3 mul 4 div Border 5 sub moveto \
+# 	/SmallFont findfont 4 scalefont setfont \
+# 	([_DayOfYear(today())]([365+isleap(today())-_DayOfYear(today())])) show
 
 
 #COLORS

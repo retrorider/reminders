@@ -2,6 +2,7 @@
 REM Mar 14 2014 *14 SPECIAL COLOR 0 128 0 Anvil Payday
 REM 1 -1 OMIT Sat Sun +2 SPECIAL COLOR 0 128 0 MVUSD Payday
 REM 24 SPECIAL COLOR 128 0 0 Safeco Insurance AutoPay $203.21
+REM 27 Aug SPECIAL COLOR 128 0 0 Progressive Insurance Renewal
 REM 15 SPECIAL COLOR 128 0 0 Sallie Mae/Navient AutoPay $459.78
 REM 25 SPECIAL COLOR 128 0 0 MetLife Insurance AutoPay $120.50
 REM 27 SPECIAL COLOR 128 0 0 T-Mobile $177.96
@@ -11,7 +12,7 @@ REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 Auto Loan Debit $166.03
 REM 27 SPECIAL COLOR 128 0 0 Great Lakes Autopay $179.53
 REM 4 SPECIAL COLOR 128 0 0 Comcast Payment Due $223
 REM 11 SPECIAL COLOR 128 0 0 Collin's Rent Due $525.00
-REM 13 SPECIAL COLOR 128 0 0 AmEx Bill Due $527.87
+REM 13 SPECIAL COLOR 128 0 0 AmEx Bill Due $1400.00
 REM 10 Aug 2015 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's First Knee Surgery
 REM 10 Jan 2016 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's Second Knee Surgery
 REM 31 Aug 2015 +7 MSG Chase Escrow Payment
@@ -88,11 +89,10 @@ REM 1 May 2015 AT 14:00 MSG Meet with Melody at Peoples Bank
 REM May 08 2015 MSG Collin's Rent Due ($1000)
 REM May 08 2015 MSG Gardner Pest Control
 REM Mon 08 MSG TAPS Group Meeting in Federal Way
-REM 2 Sep 2015 MSG First Day of School (MVUSD)
-REM 21 Dec 2015 THROUGH 1 Jan 2016 MSG Winter Break (MVUSD)
-REM 4 Apr 2016 THROUGH 8 Apr 2016 MSG Spring Break (MVUSD)
 REM 1 Feb MSG Registration for MS5000 Opens
 REM 1 Apr MSG MS5000 Begins 
 8 Aug 2015 MSG Brewfest on the Skagit
-18 Aug 2015 MSG Anacortes Shipwreck Festival
-16 MSG House Payment
+REM 16 MSG House Payment
+REM 1 Aug MSG Order Contacts for Collin
+REM 7 Jun 2017 Schedule Eye Exam for Collin
+REM 28 Aug 2015 MSG Gardner Pest Control Service

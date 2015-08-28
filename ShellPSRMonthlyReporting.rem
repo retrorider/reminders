@@ -1,0 +1,22 @@
+INCLUDE Dropbox/reminders/anvilholidays.rem
+INCLUDE Dropbox/reminders/FinancialTargetCalendar.rem
+
+REM Fri 1 SPECIAL COLOR 75 75 0 Narratives Complete
+REM Mon 4 OMIT AFTER SPECIAL COLOR 75 75 0 Run 028 Reports
+REM Mon 1 OMIT AFTER SPECIAL COLOR 75 75 0 Shell Data Date
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 6, "Sat", "Sun")] SPECIAL COLOR 75 75 0 PLs Review Monthly Report
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 9, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Transmit (Sharepoint) Monthly Report to Client
+REM Fri 1 -8 BEFORE SPECIAL COLOR 75 75 0 Month End Statusing in PT 
+REM Fri 1 -7 BEFORE SPECIAL COLOR 75 75 0 Month End Statusing in PT 
+REM Tue 1 -7 BEFORE SPECIAL COLOR 75 75 0 Estimated Accrual Report
+REM Fri 1 -4 BEFORE SPECIAL COLOR 75 75 0 Run 030 Reports as Needed
+REM 16 Jan 2015 *91 SPECIAL COLOR 75 75 0 Transmit Quarterly Report to Client
+REM Fri 15 SPECIAL COLOR 75 75 0 Transmit TA Milestones
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 4, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Issue Shell PSR Resource Forecast
+REM Mon Tue Wed Thu Fri 1 SPECIAL COLOR 75 75 0 Issue Resource forecast to PLs for Review
+REM Tue SPECIAL COLOR 75 75 0 Issue Weekly Reports
+REM 14 Aug 2015 SPECIAL COLOR 75 75 0 Bill Richardson Last Day
+REM Wed SPECIAL COLOR 75 75 0 Program Meeting
+REM Thu SPECIAL COLOR 75 75 0 Geoff Latimer at Shell
+REM Tue 8 SPECIAL COLOR 75 75 0 Receive IFC Report from Gretta
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-18), 14, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Target for Invoice Entry Complete

@@ -1,0 +1,7 @@
+REM ONCE Mon 4 OMIT AFTER RUN todo.sh add "(A) Run 028 Reports @Work"
+REM ONCE [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 9, "Sat", "Sun")] RUN todo.sh add "(A) Transmit (Sharepoint) Monthly Report to Client @Work"
+REM ONCE Tue 1 -7 BEFORE RUN todo.sh add "(A) Issue Estimated Accrual Report @Work"
+REM ONCE Fri 1 -4 BEFORE RUN todo.sh add "(A) Run 030 Reports as Needed @Work"
+REM ONCE [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 4, "Sat", "Sun")] RUN todo.sh add "(A) Issue Shell PSR Resource Forecast @Work"
+REM ONCE Mon Tue Wed Thu Fri 1 RUN todo.sh add "(A) Issue Resource forecast to PLs for Review @Work"
+REM ONCE Tue RUN todo.sh add "(A) Issue Weekly Reports @Work"
