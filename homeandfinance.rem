@@ -11,11 +11,11 @@ REM Mar 31 2014 SPECIAL COLOR 128 0 0 First Auto Loan Payment $329.61
 REM Apr 14 2014 *14 SPECIAL COLOR 128 0 0 Auto Loan Debit $166.03
 REM 27 SPECIAL COLOR 128 0 0 Great Lakes Autopay $179.53
 REM 4 SPECIAL COLOR 128 0 0 Comcast Payment Due $223
-REM 11 SPECIAL COLOR 128 0 0 Collin's Rent Due $525.00
 REM 13 SPECIAL COLOR 128 0 0 AmEx Bill Due $1400.00
 REM 10 Aug 2015 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's First Knee Surgery
 REM 10 Jan 2016 SPECIAL COLOR 128 0 0 End of Promo Financing for Shae's Second Knee Surgery
 REM 31 Aug 2015 +7 MSG Chase Escrow Payment
+REM 1 -5 SPECIAL COLOR 128 0 0 Puppy Payment $300.00
 # End Bills
 # Car Stuff
 REM Nov 1 MSG Install Snow Tires
@@ -36,6 +36,10 @@ REM 24 Jul 2015 MSG 2nd Anniversary of Collin's DUI Stop (Approx.)
 REM 24 Jul 2015 THROUGH 26 Jul 2015 MSG Gathering at Allyne's in Gig Harbor
 REM 23 Jul 2015 MSG Edward Jones Ice Cream Social at Fairhaven Park
 # End Events
+# WSU Stuff
+REM 11 SPECIAL COLOR 128 0 0 Collin's Room & Board Due $750.00
+REM Dec 18 2015 MSG Rental textbook return date
+# End WSU Stuff
 REM 1 MSG Replace Contact Lenses
 REM Mar 1 2014 *90 +7 MSG Replace Furnace Filter
 REM Mar 11 2014 MSG BP Safety Test at 13:00

@@ -1,0 +1,12 @@
+INCLUDE Dropbox/reminders/anvilholidays.rem
+REM Mon 1 OMIT AFTER SPECIAL COLOR 75 75 0 SPSR Data Date
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 9, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Upload Shell Monthly Report to Client
+REM 15 -1 OMIT Sat Sun SPECIAL COLOR 75 75 0 Issue Shell Monthly Report
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 4, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Issue Resource Forecast
+REM Tue 8 SPECIAL COLOR 75 75 0 Issue IFC Report 
+REM 30 Mar 2015 *14 OMIT AFTER SPECIAL COLOR 75 75 0 Jim Holien Schedule Updates
+REM 27 Jul 2015 *14 OMIT AFTER SPECIAL COLOR 75 75 0 Howard Leung Schedule Updates
+REM 13 Feb 2014 *14 OMIT AFTER SPECIAL COLOR 75 75 0 Ron Peterson Schedule Updates
+REM 17 Aug 2015 *14 OMIT AFTER SPECIAL COLOR 75 75 0 Harv Aujla Schedule Updates
+REM Tue OMIT AFTER SPECIAL COLOR 75 75 0 12 Week Look Ahead
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 4, "Sat", "Sun")] SPECIAL COLOR 100 0 10 Issue TGER Monthly Report

@@ -1,0 +1,4 @@
+REM Tue SPECIAL COLOR 100 0 10 Tesoro Progress & LD Reports
+REM 1 -2 OMIT Sat Sun BEFORE SPECIAL COLOR 100 0 10 TGER Accruals
+REM 2 Mon Tue Wed Thu Fri SPECIAL COLOR 100 0 10 TGER Forecasts
+REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 4, "Sat", "Sun")] SPECIAL COLOR 100 0 10 Issue TGER Monthly Report
