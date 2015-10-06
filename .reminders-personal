@@ -1,0 +1,8 @@
+INCLUDE reminders/homeandfinance.rem
+INCLUDE reminders/birthdays.rem
+INCLUDE reminders/wsu.rem
+INCLUDE reminders/wsufootball.rem
+INCLUDE reminders/holidays.rem
+INCLUDE reminders/2015STAR154RideSchedule.rem
+INCLUDE reminders/2015STAR514RideSchedule.rem
+INCLUDE reminders/mvusd2015.rem

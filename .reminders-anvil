@@ -1,0 +1,11 @@
+INCLUDE reminders/holidays.rem
+INCLUDE reminders/anvildates.rem
+# INCLUDE reminders/BRPCProgramDates.rem
+# INCLUDE reminders/107315.rem
+# INCLUDE reminders/107386.rem
+# INCLUDE reminders/107407.rem
+INCLUDE reminders/ShellPSRMonthlyReporting.rem
+INCLUDE reminders/ShellPSRMonthlySchedulerTasks.rem
+INCLUDE reminders/ShellPSRStaff.rem
+INCLUDE reminders/ShellPSRRecurringTasks.rem
+INCLUDE reminders/ShellPSRMisc.rem
