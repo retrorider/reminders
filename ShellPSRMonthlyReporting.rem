@@ -8,8 +8,8 @@ REM Fri 1 SPECIAL COLOR 75 75 0  BIT PL Inputs Due
 REM Mon 4 OMIT AFTER SPECIAL COLOR 75 75 0 Run 028 Reports
 # REM Mon 1 OMIT AFTER SPECIAL COLOR 75 75 0 SPSR Data Date
 REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 6, "Sat", "Sun")] SPECIAL COLOR 75 75 0 PLs Review Monthly Report
-REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 9, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Upload Monthly Report to Client
-REM 15 -1 OMIT Sat Sun SPECIAL COLOR 75 75 0 Issue Monthly Report
+# REM [slide(evaltrig("1 OMIT SAT SUN AFTER", today()-15), 9, "Sat", "Sun")] SPECIAL COLOR 75 75 0 Upload Monthly Report to Client
+# REM 15 -1 OMIT Sat Sun SPECIAL COLOR 75 75 0 Issue Monthly Report
 REM Fri 1 -8 BEFORE SPECIAL COLOR 75 75 0 Month End Statusing in PT 
 REM Fri 1 -7 BEFORE SPECIAL COLOR 75 75 0 Month End Statusing in PT 
 REM Fri 1 -10 BEFORE SPECIAL COLOR 75 75 0 Estimated Accrual Report
